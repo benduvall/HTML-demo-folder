@@ -1,0 +1,50 @@
+html {
+	width: 100%;
+}
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(font/sansation_light.woff);
+}
+
+
+body {
+	color: #000000;
+	background-color: #ffffff;
+	margin: 0px; 
+}
+
+.sample {
+	background-color: #ffff00; 
+	width: 1000px;
+	height: 500px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 50px;
+	font-weight: normal;
+	padding: 50px;
+}
+
+.bill {
+	font-family: "Futura", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+	
+	}
+	
+h2 {
+	
+	}
+	
+p {
+
+	}
+	
+a:link    {color:#0000ff;
+	text-decoration: underline;}
+a:visited {color:#0000ff;
+	text-decoration: underline;}
+a:hover   {color:#ffffff;
+	text-decoration: none;}
+a:active  {color:#0000ff;}
+
